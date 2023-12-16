@@ -1,4 +1,4 @@
-Loan project
+Optimizing Loan Approval Predictions: A Comprehensive Machine Learning Approach
 
 In this project, I analyzed a dataset containing information about loan applicants. The variables include unique identifiers (Loan_ID), applicant details such as gender, marital status, education, and employment status. Financial aspects like applicant and coapplicant income, loan amount, loan term, and credit history were also considered. The property area, categorized as Urban, Semi Urban, or Rural, was included. The main objective was to predict the loan approval status (Y/N) based on these factors. This project involved using machine learning algorithms to understand the patterns and make predictions regarding loan approvals."
 
